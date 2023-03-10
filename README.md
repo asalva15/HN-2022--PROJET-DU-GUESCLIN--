@@ -1,8 +1,8 @@
 # HN-2022-Du_Guesclin
 dépôt projet de groupe - eScriptorium - Le Livre des faits de messire Bertrand du Guesclin
 ====
-#<img src="asalva15/HN-2022--PROJET-DU-GUESCLIN--/Le_Livre_des_faits_de_[...]_page_1.jpg" alt="Première page du *Livre des faits de messire Bertrand du Guesclin*">
-![Première page du *Livre des faits de messire Bertrand du Guesclin*](asalva15/HN-2022--PROJET-DU-GUESCLIN--/Le_Livre_des_faits_de_[...]_page_1.jpg)
+#<img src="asalva15/HN-2022--PROJET-DU-GUESCLIN--/Le_Livre_des_faits_de_[...]_page_1.jpeg" alt="Première page du *Livre des faits de messire Bertrand du Guesclin*">
+![Première page du *Livre des faits de messire Bertrand du Guesclin*](asalva15/HN-2022--PROJET-DU-GUESCLIN--/Le_Livre_des_faits_de_[...]_page_1.jpeg)
 
 Première page du *Livre des faits de messire Bertrand du Guesclin*
 BLABLABLA SUR LE PROJET
