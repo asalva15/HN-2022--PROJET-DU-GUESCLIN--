@@ -1,8 +1,8 @@
 # HN-2022-Du_Guesclin
-dépôt projet de groupe - eScriptorium - Le Livre des faits de messire Bertrand du Guesclin
+Dépôt projet de groupe - eScriptorium - Le Livre des faits de messire Bertrand du Guesclin
 ====
 
-Notre projet se concentre sur *Le Livre des faits de messire Bertrand du Guesclin*
+Notre projet se concentre sur *Le Livre des faits de messire Bertrand du Guesclin*, plus précisément sur une édition de 1487.
 
 Le passage concerné occupe les folios 1 (carré noir) à 8 (*bretaigne*), soit 16 colonnes, à savoir:
 - [folio 1](https://gallica.bnf.fr/ark:/12148/bpt6k1110614/f5.item)
