@@ -1,13 +1,10 @@
 # HN-2022-Du_Guesclin
 dépôt projet de groupe - eScriptorium - Le Livre des faits de messire Bertrand du Guesclin
 ====
-#<img src="asalva15/HN-2022--PROJET-DU-GUESCLIN--/Le_Livre_des_faits_de_[...]_page_1.jpeg" alt="Première page du *Livre des faits de messire Bertrand du Guesclin*">
-![Première page du *Livre des faits de messire Bertrand du Guesclin*](asalva15/HN-2022--PROJET-DU-GUESCLIN--/Le_Livre_des_faits_de_[...]_page_1.jpeg)
 
-Première page du *Livre des faits de messire Bertrand du Guesclin*
-BLABLABLA SUR LE PROJET
+Notre projet se concentre sur *Le Livre des faits de messire Bertrand du Guesclin*
 
-Le passage concerné occupe les folios 1 (carré noir) à 8 (*bretaigne*), soit 18 colonnes sur les pages suivantes :
+Le passage concerné occupe les folios 1 (carré noir) à 8 (*bretaigne*), soit 16 colonnes, à savoir:
 - [folio 1](https://gallica.bnf.fr/ark:/12148/bpt6k1110614/f5.item)
 - [folio 2](https://gallica.bnf.fr/ark:/12148/bpt6k1110614/f6.item)
 - [folio 3](https://gallica.bnf.fr/ark:/12148/bpt6k1110614/f7.item)
