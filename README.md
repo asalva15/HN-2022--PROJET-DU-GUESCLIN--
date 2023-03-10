@@ -1,7 +1,8 @@
 # HN-2022-Du_Guesclin
 dépôt projet de groupe - eScriptorium - Le Livre des faits de messire Bertrand du Guesclin
 ====
-
+<img src="asalva15/HN-2022--PROJET-DU-GUESCLIN--/Le_Livre_des_faits_de_[...]_page_1" alt="texte alternatif">
+Première page du *Livre des faits de messire Bertrand du Guesclin*
 BLABLABLA SUR LE PROJET
 
 Le passage concerné occupe les folios 1 (carré noir) à 8 (*bretaigne*), soit 18 colonnes sur les pages suivantes :
