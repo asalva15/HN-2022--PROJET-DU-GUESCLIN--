@@ -4,7 +4,7 @@ dépôt projet de groupe - eScriptorium - Le Livre des faits de messire Bertrand
 
 BLABLABLA SUR LE PROJET
 
-Le passage concerné occupe les folios 1 (carré noir) à 8 (*bretaigne*), soit 16 colonnes, à savoir:
+Le passage concerné occupe les folios 1 (carré noir) à 8 (*bretaigne*), soit 18 colonnes sur les pages suivantes :
 - [folio 1](https://gallica.bnf.fr/ark:/12148/bpt6k1110614/f5.item)
 - [folio 2](https://gallica.bnf.fr/ark:/12148/bpt6k1110614/f6.item)
 - [folio 3](https://gallica.bnf.fr/ark:/12148/bpt6k1110614/f7.item)
