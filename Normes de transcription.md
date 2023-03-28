@@ -8,7 +8,7 @@ La majorité des choix de transcription ont été discutés sur les issues ou on
 
 Les paragraphes sont indiqués dans notre monographie imprimées par des pieds de mouche noirs. Ils ont été transcrits par le caractère ¶.
 
-![pied de mouche](![pied de mouche](./img/caractères/piedmouche.png))
+![pied de mouche](./img/caractères/piedmouche.png)
 
 
 # Règles de transcription
@@ -16,11 +16,15 @@ Les paragraphes sont indiqués dans notre monographie imprimées par des pieds d
 
 A l'intérieur des mots, les lettres *u* et *v* ne sont pas distinctes, comme ici dans le cas de *chevalier* et *tous* :
 
-![chevalier](./img/caractères/chevalier.png) ![tous_u](./img/caractères/u_normal.png)
+![chevalier](./img/caractères/chevalier.png) 
+
+![tous_u](./img/caractères/u_normal.png)
 
 En position initiale, le *u* et le *v* prennent la même valeur, avec une forme particulière que nous avons choisi de distinguer. Ici, la première lettre du mot *ueoir* sera indiqué par le signe suivant en début de mot.
 
-![u_init](./img/caractères/u_init.png) ![u_init_clavier](./img/caractères/u_position_init_clavier.png)
+![u_init](./img/caractères/u_init.png) 
+
+![u_init_clavier](./img/caractères/u_position_init_clavier.png)
 
 
 De même, en position initiale, les caractères ayant valeur de *i* ou *j* suivent la même graphie, comme ici avec *iehan* pour *jehan* :
@@ -31,7 +35,9 @@ De même, en position initiale, les caractères ayant valeur de *i* ou *j* suive
 
 Nous avons choisis de représenter la distinction entre les *s* longs et les *s* ronds. Ci-dessous deux exemples avec ces lettres :
 
-![s_long](./img/caractères/s_long.png) ![tous_s](./img/caractères/u_normal.png)
+![s_long](./img/caractères/s_long.png) 
+
+![tous_s](./img/caractères/u_normal.png)
 
 ## *b*
 Le *b* prend deux graphies dans le texte, une avec une barre droite et l'autre avec une boucle. Nous avons choisi de garder une seule graphie pour représenter ces deux lettres : "b"
