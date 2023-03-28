@@ -14,7 +14,7 @@ Le passage concerné occupe les folios 1 (carré noir) à 8 (*bretaigne*), soit 
 - [folio 6](https://gallica.bnf.fr/ark:/12148/bpt6k1110614/f10.item)
 - [folio 7](https://gallica.bnf.fr/ark:/12148/bpt6k1110614/f11.item)
 - [folio 8](https://gallica.bnf.fr/ark:/12148/bpt6k1110614/f12.item)
-- [folio 8](https://gallica.bnf.fr/ark:/12148/bpt6k1110614/f12.item)
+- [folio 9](https://gallica.bnf.fr/ark:/12148/bpt6k1110614/f12.item)
 
 # Contenu du dépôt
 
