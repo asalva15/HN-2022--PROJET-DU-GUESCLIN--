@@ -73,7 +73,7 @@ Les mots sont séparés de manière claire dans le texte, nous avons donc suivi 
 
 ## Abréviations
 
-Nous avons choisi de suivre les abbréviations présentes dans le texte. Pour cela, nous nous sommes appuyé sur [cet article reprenant les abbréviations paléographique](https://irht.hypotheses.org/792), proposé par le Carnet de l'Institut de Recherche et d'Histoire des Textes. Ainsi, différents signes spéciaux ou lettres sont utilisés pour représenter un ensemble de lettres. 
+Nous avons choisi de suivre les abréviations présentes dans le texte. Pour cela, nous nous sommes appuyés sur [cet article reprenant les abbréviations paléographique](https://irht.hypotheses.org/792), proposé par le Carnet de l'Institut de Recherche et d'Histoire des Textes. Ainsi, différents signes spéciaux ou lettres sont utilisés pour représenter un ensemble de lettres. 
 
 Les lettres "pro" sont représentées par un p dont la barre est bouclée. Dans notre cas, ce signe apparaît pour le mot "prochain" noté ainsi : 
 
@@ -84,7 +84,7 @@ Les lettres "ou" ou "ous" sont représenté par le signe suivant :
 
 ![abbrev_ous](./img/caractères/abbrev_ou.png). 
 
-Avec la lettre *u* initiale pour le *v* et le signe abbréviatif qui permet d'indique "ous" ce qui donne le terme "vous". 
+Avec la lettre *u* initiale pour le *v* et le signe abréviatif qui permet d'indique "ous" ce qui donne le terme "vous". 
 
 
 Le nom de Bertrand du Guesclin est lui aussi parfois abrégé. Ainsi, il peut être indiqué par un *b* minuscule entre deux point ou par un *B* majuscule entre deux point. 
@@ -94,7 +94,7 @@ Le nom de Bertrand du Guesclin est lui aussi parfois abrégé. Ainsi, il peut ê
 ![majuscule_bertrand](./img/caractères/abbrev_bert_maj.png)
 
 
-Le q tilde est largement utilisé dans notre texte en tant qu'abbréviation de "que" ou "qu'". 
+Le q tilde est largement utilisé dans notre texte en tant qu'abréviation de "que" ou "qu'". 
 
 ![q_tilde](./img/caractères/q_tilde.png)
 
@@ -113,7 +113,7 @@ o tilde : ![o_tilde](./img/caractères/o_tilde.png)
 
 ## Ponctuation et nombres
 
-Nous avons suivi la ponctuation présente dans la monographie imprimée. Elle est notamment indicative des abbréviations (cf. Bertrand) et des chiffres. En effet, les chiffres sont encadrés par deux points, qu'ils soient écrits en lettres ou en chiffres romains. 
+Nous avons suivi la ponctuation présente dans la monographie imprimée. Elle est notamment indicative des abréviations (cf. Bertrand) et des chiffres. En effet, les chiffres sont encadrés par deux points, qu'ils soient écrits en lettres ou en chiffres romains. 
 
 Ainsi, ![chiffres_lettres](./img/caractères/chiffres.png) sera transcrit "de.Ui.ans". 
 
@@ -121,9 +121,9 @@ Et ![chiffres_romains](./img/caractères/abbrev_chiffre.png), sera transcrit "de
 
 ## Éléments matériels du texte
 
-Le texte est aussi composé d'éléments matériel tels que de signatures et des illustrations. 
+Le texte est aussi composé d'éléments matériels tels que de signatures et des illustrations. 
 
-En bas de certaines page, on trouve des signatures en chiffres romains. Ces signatures sont des indications matérielles pour l'imprimeur et le relieur, elles permettent d'indiquer l'ordre des pages. Elles sont déterminées dans les XML/ALTO comme Signature puisque nous avons fait le choix dans notre ontologie de créer des lignes spécifiques pour décrire les Signatures. (Cf. [issue 2](https://github.com/asalva15/HN-2022--PROJET-DU-GUESCLIN--/issues/2))
+En bas de certaines pages, on trouve des signatures en chiffres romains. Ces signatures sont des indications matérielles pour l'imprimeur et le relieur, elles permettent d'indiquer l'ordre des pages. Elles sont déterminées dans les XML/ALTO comme Signature puisque nous avons fait le choix dans notre ontologie de créer des lignes spécifiques pour décrire les Signatures. (Cf. [issue 2](https://github.com/asalva15/HN-2022--PROJET-DU-GUESCLIN--/issues/2))
 
 ![signature](./img/caractères/signature_page_3.png)
 
