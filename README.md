@@ -1,7 +1,7 @@
 # HN-2022-Du_Guesclin
 Dépôt projet de groupe - eScriptorium - Le Livre des faits de messire Bertrand du Guesclin
 ====
-![illustration_page1](/img/caractères/illustration_page1.jpeg)
+![illustration_page5](img/illustration/illustration_p5.png)
 
 Notre projet se concentre sur *Le Livre des faits de messire Bertrand du Guesclin*, plus précisément sur une édition de 1487, disponible sur [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k1110614/f5.item) sous la [notice suivante](https://catalogue.bnf.fr/ark:/12148/cb33258730z), en caroline gothique, le texte est imprimé.
 
@@ -17,7 +17,13 @@ Le passage concerné occupe les folios 1 (carré noir) à 9 (*fort*), soit 16 co
 - [folio 9](https://gallica.bnf.fr/ark:/12148/bpt6k1110614/f13.item)
 
 # Contenu du dépôt
-
+- `Clavier` contient le document .json utilisé contenant les caractères utilisés sur eScriptorium. 
+- `img/` contient :
+   - `caractères/`des caractères pour illustrer `normesTranscription.md`.
+   - `illustrations/` les illustrations présentes dans nos documents.
+- `rapport/` contient le rapport du projet au format `.pdf`, ainsi qu'un sous-dossier contenant les fichiers-sources `.tex` et `.bib`. 
+- `veriteTerrain/` contient les vérités terrain du projet : fichiers `.xml` et images `.jpg`
+- `normesTranscription.md` : description des normes de transcription que nous avons choisie d'utiliser dans le projet.
 
 # Auteurs
 Ce projet a été réalisé par :
