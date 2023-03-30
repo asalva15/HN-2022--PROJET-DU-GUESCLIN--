@@ -1,0 +1,151 @@
+{
+    "version": "1.0",
+    "name": "Duguesclin",
+    "author": "Ariane Pinche <ariane.pinche@chartes.psl.eu>",
+    "characters": [
+        {
+            "character": "ʃ",
+            "keyboard_code": null,
+            "column": 0,
+            "row": 0
+        },
+        {
+            "character": "ⱬ",
+            "keyboard_code": null,
+            "column": 1,
+            "row": 0
+        },
+        {
+            "character": "ſ",
+            "keyboard_code": null,
+            "column": 2,
+            "row": 0
+        },
+        {
+            "character": "œ",
+            "legend": "tilde verticale",
+            "keyboard_code": null,
+            "column": 3,
+            "row": 0
+        },
+        {
+            "character": "̃",
+            "legend": "tilde horizontale",
+            "keyboard_code": null,
+            "column": 4,
+            "row": 0
+        },
+        {
+            "character": "¶",
+            "keyboard_code": null,
+            "column": 0,
+            "row": 1
+        },
+        {
+            "character": "ħ",
+            "keyboard_code": null,
+            "column": 1,
+            "row": 1
+        },
+        {
+            "character": "Ʒ",
+            "keyboard_code": null,
+            "column": 2,
+            "row": 1
+        },
+        {
+            "character": "õ",
+            "keyboard_code": null,
+            "column": 3,
+            "row": 1
+        },
+        {
+            "character": "ꝓ",
+            "keyboard_code": null,
+            "column": 4,
+            "row": 1
+        },
+        {
+            "character": "ꝸ",
+            "keyboard_code": null,
+            "column": 5,
+            "row": 1
+        },
+        {
+            "character": "ã",
+            "keyboard_code": null,
+            "column": 6,
+            "row": 1
+        },
+        {
+            "character": "ᵷ",
+            "keyboard_code": null,
+            "legend": "a suscrit",
+            "column": 0,
+            "row": 2
+        },
+        {
+            "character": "ẽ",
+            "legend": "e suscrit",
+            "keyboard_code": null,
+            "column": 1,
+            "row": 2
+        },
+        {
+            "character": "ᴣ",
+            "legend": "i suscrit",
+            "column": 2,
+            "row": 2
+        },
+        {
+            "row": 0,
+            "column": 5,
+            "character": "ɂ"
+        },
+        {
+            "row": 0,
+            "column": 6,
+            "character": "Ɉ"
+        },
+        {
+            "row": 2,
+            "column": 3,
+            "character": "ꝛ"
+        },
+        {
+            "row": 2,
+            "column": 4,
+            "character": "⸜"
+        },
+        {
+            "row": 2,
+            "column": 5,
+            "character": "⸝"
+        },
+        {
+            "row": 2,
+            "column": 6,
+            "character": "Ꝓ"
+        },
+        {
+            "row": 3,
+            "column": 0,
+            "character": "ꝓ"
+        },
+        {
+            "row": 3,
+            "column": 1,
+            "character": "ƃ"
+        },
+        {
+            "row": 3,
+            "column": 2,
+            "character": "ũ"
+        },
+        {
+            "row": 3,
+            "column": 3,
+            "character": "ĩ"
+        }
+    ]
+}
