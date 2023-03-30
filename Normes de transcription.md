@@ -6,7 +6,7 @@ Normes de transcription
 La majorité des choix de transcription ont été discutés sur les issues ou ont suivi [le guide paléographique d'Ariane Pinche](https://hal.science/hal-03697382/).
 ## Paragraphes
 
-Les paragraphes sont indiqués dans notre monographie imprimées par des pieds de mouche noirs. Ils ont été transcrits par le caractère ¶.
+Les paragraphes sont indiqués dans notre monographie imprimée par des pieds de mouche noirs. Ils ont été transcrits par le caractère ¶.
 
 ![pied de mouche](./img/caractères/piedmouche.png)
 
@@ -66,14 +66,14 @@ Le *z* prend lui aussi une graphie particulière dans notre texte. Nous avons ch
 
 ## Séparation des mots
 
-Les mots sont séparés de manière claire dans le texte, nous avons donc suivi cela. Dans certain cas, une césure est marquée par un trait de suite. Ce trait est noté de gauche à droite et de bas en haut. Nous avons donc utilisé un trait penché dans cette direction pour le représenter dans notre transcription. Ci-dessous un exemple de césure pour le mot "souvent" (avec *s* long) : 
+Les mots sont séparés de manière claire dans le texte, nous avons donc suivi cela. Dans certains cas, une césure est marquée par un trait de suite. Ce trait est noté de gauche à droite et de bas en haut. Nous avons donc utilisé un trait penché dans cette direction pour le représenter dans notre transcription. Ci-dessous un exemple de césure pour le mot "souvent" (avec *s* long) : 
 
 ![cesure](./img/caractères/cesure_souvent.png)
 
 
 ## Abréviations
 
-Nous avons choisis de suivre les abbréviations présentes dans le texte. Pour cela, nous nous sommes appuyé sur [cet article reprenant les abbréviations paléographique](https://irht.hypotheses.org/792), proposé par le Carnet de l'Institut de Recherche et d'Histoire des Textes. Ainsi, différents signes spéciaux ou lettres sont utilisés pour représenter un ensemble de lettres. 
+Nous avons choisi de suivre les abbréviations présentes dans le texte. Pour cela, nous nous sommes appuyé sur [cet article reprenant les abbréviations paléographique](https://irht.hypotheses.org/792), proposé par le Carnet de l'Institut de Recherche et d'Histoire des Textes. Ainsi, différents signes spéciaux ou lettres sont utilisés pour représenter un ensemble de lettres. 
 
 Les lettres "pro" sont représentées par un p dont la barre est bouclée. Dans notre cas, ce signe apparaît pour le mot "prochain" noté ainsi : 
 
