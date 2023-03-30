@@ -1,7 +1,7 @@
 # HN-2022-Du_Guesclin
 Dépôt projet de groupe - eScriptorium - Le Livre des faits de messire Bertrand du Guesclin
 ====
-![illustration_page1](./img/caractères/illustration_page1.jpeg)
+![illustration_page1](/img/caractères/illustration_page1.jpeg)
 
 Notre projet se concentre sur *Le Livre des faits de messire Bertrand du Guesclin*, plus précisément sur une édition de 1487, disponible sur [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k1110614/f5.item) sous la [notice suivante](https://catalogue.bnf.fr/ark:/12148/cb33258730z), en caroline gothique, le texte est imprimé.
 
