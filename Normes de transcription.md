@@ -6,7 +6,7 @@ Normes de transcription
 La majorité des choix de transcription ont été discutés sur les issues ou ont suivi [le guide paléographique d'Ariane Pinche](https://hal.science/hal-03697382/).
 ## Paragraphes
 
-Les paragraphes sont indiqués dans notre monographie imprimées par des pieds de mouche noirs. Ils ont été transcrits par le caractère ¶.
+Les paragraphes sont indiqués dans notre monographie imprimée par des pieds de mouche noirs. Ils ont été transcrits par le caractère ¶.
 
 ![pied de mouche](./img/caractères/piedmouche.png)
 
@@ -66,7 +66,7 @@ Le *z* prend lui aussi une graphie particulière dans notre texte. Nous avons ch
 
 ## Séparation des mots
 
-Les mots sont séparés de manière claire dans le texte, nous avons donc suivi cela. Dans certain cas, une césure est marquée par un trait de suite. Ce trait est noté de gauche à droite et de bas en haut. Nous avons donc utilisé un trait penché dans cette direction pour le représenter dans notre transcription. Ci-dessous un exemple de césure pour le mot "souvent" (avec *s* long) : 
+Les mots sont séparés de manière claire dans le texte, nous avons donc suivi cela. Dans certains cas, une césure est marquée par un trait de suite. Ce trait est noté de gauche à droite et de bas en haut. Nous avons donc utilisé un trait penché dans cette direction pour le représenter dans notre transcription. Ci-dessous un exemple de césure pour le mot "souvent" (avec *s* long) : 
 
 ![cesure](./img/caractères/cesure_souvent.png)
 
