@@ -73,7 +73,7 @@ Les mots sont séparés de manière claire dans le texte, nous avons donc suivi 
 
 ## Abréviations
 
-Nous avons choisis de suivre les abbréviations présentes dans le texte. Pour cela, nous nous sommes appuyé sur [cet article reprenant les abbréviations paléographique](https://irht.hypotheses.org/792), proposé par le Carnet de l'Institut de Recherche et d'Histoire des Textes. Ainsi, différents signes spéciaux ou lettres sont utilisés pour représenter un ensemble de lettres. 
+Nous avons choisi de suivre les abbréviations présentes dans le texte. Pour cela, nous nous sommes appuyé sur [cet article reprenant les abbréviations paléographique](https://irht.hypotheses.org/792), proposé par le Carnet de l'Institut de Recherche et d'Histoire des Textes. Ainsi, différents signes spéciaux ou lettres sont utilisés pour représenter un ensemble de lettres. 
 
 Les lettres "pro" sont représentées par un p dont la barre est bouclée. Dans notre cas, ce signe apparaît pour le mot "prochain" noté ainsi : 
 
