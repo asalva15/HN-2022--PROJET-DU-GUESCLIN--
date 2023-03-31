@@ -18,15 +18,15 @@ Le passage concerné occupe les folios 1 (carré noir) à 9 (*fort*), soit 16 co
 
 # Contenu du dépôt
 - `Clavier/` contient le document .json utilisé contenant les caractères utilisés sur eScriptorium. 
+- `exports_finaux_zip/` : les fichiers zip des pages transcrites, en fonction du membre du groupe responsable, avec les images et les encodages xml, importables dans eScriptorium (_METS(URI/ZIP)_)
+- `exports_finaux_txt/` : les fichiers txt de ces pages, en fonction du membre du groupe responsable, et un fichier _.txt_ global des folios 1 à 9
+- `exports_finaux_xml/` : les encodages xml et les images des pages transcrites, en fonction du membre du groupe responsable
 - `img/` contient :
    - `caractères/`des caractères pour illustrer `normesTranscription.md`.
    - `illustrations/` les illustrations présentes dans nos documents.
 - `rapport/` contient le rapport du projet au format `.pdf`, ainsi qu'un sous-dossier `source/` contenant le fichier `.tex` et les images utilisées dans le rapport. 
-- `veriteTerrain/` contient les vérités terrain du projet : fichiers `.xml` et images `.jpg`
 - `normesTranscription.md` : description des normes de transcription que nous avons choisie d'utiliser dans le projet.
-- `exports_finaux_zip/` : les fichiers zip des pages transcrites, en fonction du membre du groupe responsable, avec les images et les encodages xml, importables dans eScriptorium (_METS(URI/ZIP)_)
-- `exports_finaux_txt/` : les fichiers txt de ces pages, en fonction du membre du groupe responsable, et un fichier _.txt_ global des folios 1 à 9
-- `exports_finaux_xml/` : les encodages xml et les images des pages transcrites, en fonction du membre du groupe responsable
+
 
 # Auteurs
 Ce projet a été réalisé par :
