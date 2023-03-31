@@ -21,7 +21,7 @@ Le passage concerné occupe les folios 1 (carré noir) à 9 (*fort*), soit 16 co
 - `img/` contient :
    - `caractères/`des caractères pour illustrer `normesTranscription.md`.
    - `illustrations/` les illustrations présentes dans nos documents.
-- `rapport/` contient le rapport du projet au format `.pdf`, ainsi qu'un sous-dossier contenant les fichiers-sources `.tex` et `.bib`. 
+- `rapport/` contient le rapport du projet au format `.pdf`, ainsi qu'un sous-dossier `source/` contenant le fichier `.tex` et les images utilisées dans le rapport. 
 - `veriteTerrain/` contient les vérités terrain du projet : fichiers `.xml` et images `.jpg`
 - `normesTranscription.md` : description des normes de transcription que nous avons choisie d'utiliser dans le projet.
 - `exports_finaux_zip/` : les fichiers zip des pages transcrites, en fonction du membre du groupe responsable, avec les images et les encodages xml, importables dans eScriptorium (_METS(URI/ZIP)_)
