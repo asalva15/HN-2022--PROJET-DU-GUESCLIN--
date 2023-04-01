@@ -18,9 +18,8 @@ Le passage concerné occupe les folios 1 (carré noir) à 9 (*fort*), soit 16 co
 
 # Contenu du dépôt
 - `Clavier/` contient le document .json utilisé contenant les caractères utilisés sur eScriptorium. 
-- `exports_finaux_zip/` : les fichiers zip des pages transcrites, en fonction du membre du groupe responsable, avec les images et les encodages xml, importables dans eScriptorium (_METS(URI/ZIP)_)
 - `exports_finaux_txt/` : les fichiers txt de ces pages, en fonction du membre du groupe responsable, et un fichier _.txt_ global des folios 1 à 9
-- `exports_finaux_xml/` : les encodages xml et les images des pages transcrites, en fonction du membre du groupe responsable
+- `exports_finaux_xml/` : les encodages xml et les images des pages transcrites, en fonction du membre du groupe responsable de la transcription
 - `img/` contient :
    - `caractères/`des caractères pour illustrer `normesTranscription.md`.
    - `illustrations/` les illustrations présentes dans nos documents.
